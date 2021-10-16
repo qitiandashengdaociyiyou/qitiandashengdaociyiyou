@@ -5,4 +5,3 @@ minionthree is back, baby! in case you're not familiar, i am an 11 year old kid 
 - plays minecraft
 - eats food
 - tells bad jokes
-- hosts an anarchy google classroom
