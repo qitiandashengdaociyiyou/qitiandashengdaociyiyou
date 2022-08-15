@@ -1,5 +1,5 @@
 ### hi
 ima 7th grader
 
-## languages
+### languages
 python, javascript, html, java, c++
