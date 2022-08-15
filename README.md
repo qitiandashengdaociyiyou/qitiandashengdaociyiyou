@@ -1,2 +1,5 @@
 ### hi
-im gonna be in 7th grade next year
+ima 7th grader
+
+## languages
+python, javascript, html, java, c++
